@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tag_presenter_selector" type="id" />
+    <item name="tag_presenter" type="id" />
+    <item name="tag_object" type="id" />
+    <item name="tag_title_selector" type="id" />
+    <item name="tag_width_selector" type="id" />
+    <item name="tag_fragment_manager" type="id" />
+</resources>

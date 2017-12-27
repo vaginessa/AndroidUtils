@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="io.androidutils">
+
+    <application>
+        <activity
+            android:name=".PermissionsActivity"
+            android:theme="@style/Theme.NoDisplay" />
+    </application>
+</manifest>

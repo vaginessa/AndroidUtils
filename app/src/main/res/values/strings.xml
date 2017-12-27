@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidUtils</string>
+    <string name="lists">Lists</string>
+    <string name="title_activity_lists">ListsActivity</string>
+    <string name="recycler_view">Recycler View</string>
+    <string name="list_view">List View</string>
+    <string name="view_pager">View Pager</string>
+    <string name="remove">Remove</string>
+    <string name="view_pager_fragments">View Pager (Fragments)</string>
+    <string name="request_permissions">Request permissions</string>
+</resources>
